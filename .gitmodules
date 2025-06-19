@@ -1,0 +1,4 @@
+[submodule "a/another_branch"]
+	path = a/another_branch
+	url = git@github.com:taliBerman5/test_full.git
+	branch = another_branch

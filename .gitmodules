@@ -2,3 +2,6 @@
 	path = a/another_branch
 	url = git@github.com:taliBerman5/test_full.git
 	branch = another_branch
+[submodule "a/another_branch2"]
+	path = a/another_branch2
+	url = git@github.com:taliBerman5/test_partial.git

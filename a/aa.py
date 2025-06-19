@@ -1,1 +1,1 @@
-print("bey")
+print("beygit")
